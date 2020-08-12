@@ -1,13 +1,13 @@
 ![PyPI - Python Version](https://img.shields.io/badge/Python-3.7-brightgreen)
 ![PyPI - Python Version](https://img.shields.io/badge/requirements.txt-updated-yellow)
-# GeoStatEISTI
+# Convolutional Neural Networks
+
 ## Purpose of Plan
-The Geographical statistics of engineering internships Plan will provide a definition of the project, including the
-project’s goals and objectives. Additionally, the Plan will serve as an agreement between the following parties: Project
-Sponsor, Steering Committee, Project Team, and other personnel associated with and/or affected by the project.
+
 
 ## Preview
-![Project Preview](https://github.com/mopidevimu/GeoStatEisti/blob/master/ReadMe_pics/project.gif)
+![Project Preview](https://github.com/mopidevimu/Convolutional_Neural_Networks/blob/master/git_img/cat_dog.gif)
+![Project Preview](https://github.com/mopidevimu/Convolutional_Neural_Networks/blob/master/git_img/cat-vs-dog.jpg)
 
 ## QickView
 
