@@ -3,7 +3,8 @@
 # Convolutional Neural Networks
 
 ## Purpose of Plan
-
+Cats vs Dogs classification is a fundamental Deep Learning project for beginners. If you want to start your
+Deep Learning Journey with Python Keras, you must work on this elementary project.
 
 ## Preview
 ![Project Preview](https://github.com/mopidevimu/Convolutional_Neural_Networks/blob/master/git_img/cat_dog.gif)
